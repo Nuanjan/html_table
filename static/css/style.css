@@ -1,0 +1,7 @@
+.table-dark {
+  --bs-table-bg: rgb(72, 71, 71);
+  border-bottom: white solid 2px;
+}
+.table-dark th {
+  color: rgb(247, 195, 83);
+}
